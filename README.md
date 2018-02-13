@@ -3,8 +3,6 @@
 rcane
 =====
 
-[![Build Status](https://travis-ci.org/sureshaks/rcane.svg?branch=akshay)](https://travis-ci.org/sureshaks/rcane)
-
 What is it?
 -----------
 
@@ -76,7 +74,7 @@ If you have R &gt;= 3.4.2, follow the instructions
 -   Open R studio and run this on the console
 
 ``` r
-install_github("sureshaks/rcane")
+install_github("chao-h/rcane")
 ```
 
 -   Nothing. You can just include it in the search path and use it
